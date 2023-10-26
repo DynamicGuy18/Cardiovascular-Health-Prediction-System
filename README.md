@@ -1,14 +1,15 @@
-# Heart-Disease-Prediction-KNN
-This repository contains a flask application which will detect the presence of heart disease using KNN, Random Forest and Gradient Boosting Classifier
+#Cardiovascular Health Prediction System
+Our machine learning system empowers precise cardiovascular health risk prediction through advanced data science and engineering. Using a comprehensive dataset encompassing vital health parameters such as blood pressure, cholesterol levels, and clinical factors, we forecast an individual's susceptibility to cardiovascular diseases. Our predictive model is the result of meticulous craftsmanship and rigorous testing via a robust data analysis pipeline.
 
 <h2>Technology Stack:</h2>
 <ol>
-  <li>KNN Classifier
-  <li>Random Forest Classifier</li>
+  <li>Python
+  <li>Machine Learning Algorithms</li>
   <li>Flask</li>
-  <li>Python</li>
+  <li>Javascript</li>
   <li>HTML</li>
   <li>CSS</li>
+  <li>MySQL</li>
 </ol>
 
 <h2> User Interface Snapshots </h2>
